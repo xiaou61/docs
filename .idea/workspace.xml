@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/Chinese/Book/01/A.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/Book/01/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/Book/01/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/介绍.md" afterDir="false" />
-    </list>
+    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs/Chinese/Book/01",
+    "last_opened_file_path": "E:/docs/Chinese/Book",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,11 +38,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docs\Chinese\Book" />
+      <recent name="E:\docs\Chinese\05" />
+      <recent name="E:\docs\Chinese\Book\04" />
       <recent name="E:\docs\Chinese\Book\03" />
       <recent name="E:\docs\Chinese\Book\02" />
-      <recent name="E:\docs\Chinese\Book\01" />
-      <recent name="E:\docs\Chinese\Book" />
-      <recent name="E:\docs\EN" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\docs\Chinese\Book\C 语言入门教程（暗黑版）-阮一峰" />
@@ -80,7 +74,7 @@
       <workItem from="1686630208534" duration="957000" />
       <workItem from="1686633080480" duration="69000" />
       <workItem from="1686633194653" duration="283000" />
-      <workItem from="1686633585142" duration="615000" />
+      <workItem from="1686633585142" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -201,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686632059059</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="提交">
+      <created>1686634459363</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686634459363</updated>
+    </task>
+    <task id="LOCAL-00019" summary="提交">
+      <created>1686634632804</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686634632804</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
