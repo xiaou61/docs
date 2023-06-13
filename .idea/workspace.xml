@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交" />
+    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交">
+      <change afterPath="$PROJECT_DIR$/Chinese/Book/A/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/Book/B/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/A.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/B.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_sidebar.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs/Chinese/Book",
+    "last_opened_file_path": "E:/docs/Chinese/Book/B",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,8 +67,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\docs\Chinese\Book" />
-      <recent name="E:\docs\Chinese\05" />
+      <recent name="E:\docs\Chinese\Book\B" />
+      <recent name="E:\docs\Chinese\Book\05" />
       <recent name="E:\docs\Chinese\Book\04" />
       <recent name="E:\docs\Chinese\Book\03" />
       <recent name="E:\docs\Chinese\Book\02" />
@@ -75,7 +104,7 @@
       <workItem from="1686630208534" duration="957000" />
       <workItem from="1686633080480" duration="69000" />
       <workItem from="1686633194653" duration="283000" />
-      <workItem from="1686633585142" duration="1706000" />
+      <workItem from="1686633585142" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -238,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686635220199</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="提交">
+      <created>1686635393819</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686635393819</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
