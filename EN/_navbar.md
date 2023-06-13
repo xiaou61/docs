@@ -1,3 +1,3 @@
 
-* [chinese](../README)
+* [chinese](../Chinese/README.md)
 * [EN](/EN)

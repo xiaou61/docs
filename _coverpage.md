@@ -7,4 +7,4 @@
 - The ardor of passion endures the lengthy passage of time.
 
 [GitHub](https://github.com/xiaou61)
-[Get Started](README)
+[Get Started](Chinese/README)

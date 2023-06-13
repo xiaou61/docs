@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交" />
+    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/C 语言入门教程（暗黑版）-阮一峰.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/C 语言入门教程（暗黑版）-阮一峰.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/Java并发编程艺术.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/Java并发编程艺术.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/Python 3网络爬虫开发实战(第二版) (崔庆才) (z-lib.org).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/Python 3网络爬虫开发实战(第二版) (崔庆才) (z-lib.org).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/Python编程快速上手：让繁琐工作自动化（第2版） (阿尔·斯维加特).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/Python编程快速上手：让繁琐工作自动化（第2版） (阿尔·斯维加特).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book/阿里巴巴Java开发手册（嵩山版）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/阿里巴巴Java开发手册（嵩山版）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdao.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/youdao.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +58,7 @@
       <recent name="E:\docs\Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\docs\Chinese" />
       <recent name="E:\docs\js" />
       <recent name="E:\docs\Book" />
     </key>
@@ -67,7 +82,7 @@
       <workItem from="1686567670223" duration="17000" />
       <workItem from="1686567689173" duration="24000" />
       <workItem from="1686567726118" duration="5708000" />
-      <workItem from="1686627236920" duration="1519000" />
+      <workItem from="1686627236920" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -132,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686628750278</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="提交">
+      <created>1686629072198</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686629072198</updated>
+    </task>
+    <task id="LOCAL-00011" summary="提交">
+      <created>1686629118699</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686629118699</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
