@@ -5,34 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/Chinese/Book/A/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/Book/B/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/java从入门到起飞.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/basic-data-type-3d5b3e40-1abb-4624-8282-b83e58388825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/basic-data-type-dc26645a-3ed8-4ad4-815d-52528ad12d6b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230614125030250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230614133117174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/override-overload-20230408151129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/prism-ghcolors.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/A.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/B.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/A.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/01/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/A.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/02/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/A.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/03/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/A.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/04/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/A.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/05/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/Book/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/Book/介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/A.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/B.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/C 语言入门教程（暗黑版）-阮一峰.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/C.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/D.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/E.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/Java并发编程艺术.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/Python 3网络爬虫开发实战(第二版) (崔庆才) (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/Python编程快速上手：让繁琐工作自动化（第2版） (阿尔·斯维加特).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/Book/阿里巴巴Java开发手册（嵩山版）.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chinese/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +72,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs/Chinese/Book/B",
+    "last_opened_file_path": "E:/docs/Chinese",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,16 +88,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\docs\Chinese\Book\B" />
-      <recent name="E:\docs\Chinese\Book\05" />
-      <recent name="E:\docs\Chinese\Book\04" />
-      <recent name="E:\docs\Chinese\Book\03" />
-      <recent name="E:\docs\Chinese\Book\02" />
+      <recent name="E:\docs\Chinese" />
+      <recent name="E:\docs\js" />
+      <recent name="E:\docs\themes" />
+      <recent name="E:\docs" />
+      <recent name="E:\docs\Chinese\Book\C" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\docs\Chinese" />
       <recent name="E:\docs\Chinese\Book" />
       <recent name="E:\docs\Chinese\Book\C 语言入门教程（暗黑版）-阮一峰" />
-      <recent name="E:\docs\Chinese" />
       <recent name="E:\docs\js" />
       <recent name="E:\docs\Book" />
     </key>
@@ -104,7 +125,8 @@
       <workItem from="1686630208534" duration="957000" />
       <workItem from="1686633080480" duration="69000" />
       <workItem from="1686633194653" duration="283000" />
-      <workItem from="1686633585142" duration="2674000" />
+      <workItem from="1686633585142" duration="3213000" />
+      <workItem from="1686718431359" duration="2944000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -274,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686635393819</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="提交">
+      <created>1686636597462</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686636597462</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +321,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交" />
     <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
