@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="java基础">
-      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230614150503698.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/java-string-1-2020-12-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/print-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/print-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/print-03.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_navbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/java从入门到起飞.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/java从入门到起飞.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EN/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EN/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EN/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EN/youdao.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/prism-ghcolors.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,22 +23,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/docs/Chinese/java从入门到起飞书籍v1.0/pictures&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/docs/Chinese/java从入门到起飞书籍v1.0/pictures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\docs\Chinese\java从入门到起飞书籍v1.0\pictures" />
@@ -96,7 +82,9 @@
       <workItem from="1686718431359" duration="3628000" />
       <workItem from="1686728313372" duration="614000" />
       <workItem from="1686741375444" duration="11000" />
-      <workItem from="1686806397791" duration="2929000" />
+      <workItem from="1686806397791" duration="3936000" />
+      <workItem from="1686823753564" duration="144000" />
+      <workItem from="1686828931466" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -280,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686726209192</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="java基础">
+      <created>1686814267793</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1686814267793</updated>
+    </task>
+    <task id="LOCAL-00028" summary="java基础">
+      <created>1686814434601</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1686814434601</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
