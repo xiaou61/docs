@@ -5,44 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="java基础">
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/java面向对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/14B0951E-FC75-47A3-B611-4E1883887339.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/16-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/16-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/16145019571199.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-2ba4864f-af39-4bd7-b59c-db53ec1c38f6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-2bf1876f-0c1c-4e83-8721-e6f48d6451c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-32bdceb5-e838-47cb-ad96-b7453abae6a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-62bbc6a2-4e0e-4150-9f83-fceb65c56667.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-ab4c9fef-63be-4bba-a871-7e5fb9bf711a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-c06ece50-32e5-4b03-a31b-05ef03592d0c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-d3789496-09f8-4a62-8424-e5c45e224320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-e2ebc65a-5385-44a0-8ef3-a1b17e0252f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-eeee7ea3-30d5-4bb1-9c9d-5e3bf427e805.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212720005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212731031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212738450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212754509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615213114814.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615213708484.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615213722540.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214105578.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214129380.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214704491.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214725375.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214738386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214802731.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214820668.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214833736.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214844376.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615215501906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615220313407.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/java-extends-2020-12-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/object-class-20230410094307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/java面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese/java面向对象v1.0/java面向对象.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs",
+    "last_opened_file_path": "E:/docs/Chinese/java面向对象v1.0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,18 +44,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docs\Chinese\java面向对象v1.0" />
       <recent name="E:\docs" />
       <recent name="E:\docs\Chinese\java从入门到起飞书籍v1.0\pictures" />
       <recent name="E:\docs\Chinese" />
       <recent name="E:\docs\js" />
-      <recent name="E:\docs\themes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\docs\Chinese\java面向对象v1.0\pictures" />
       <recent name="E:\docs\Chinese" />
       <recent name="E:\docs\Chinese\Book" />
       <recent name="E:\docs\Chinese\Book\C 语言入门教程（暗黑版）-阮一峰" />
       <recent name="E:\docs\js" />
-      <recent name="E:\docs\Book" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -125,6 +90,8 @@
       <workItem from="1686828931466" duration="660000" />
       <workItem from="1686829609745" duration="3000" />
       <workItem from="1686831914404" duration="2914000" />
+      <workItem from="1686840092661" duration="240000" />
+      <workItem from="1686840468020" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -336,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686829566562</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="java基础">
+      <created>1686840097814</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1686840097814</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
