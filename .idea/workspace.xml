@@ -4,259 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="java基础">
-      <change afterPath="$PROJECT_DIR$/Java/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/1-前言.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/2-java概述以及环境变量的配置.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/3-java语法基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/4-数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/5-字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/6-总结后记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/java从入门到起飞.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/basic-data-type-3d5b3e40-1abb-4624-8282-b83e58388825.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/basic-data-type-dc26645a-3ed8-4ad4-815d-52528ad12d6b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/eleven-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/eleven-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/eleven-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/eleven-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/fourteen-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/fourteen-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/fourteen-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/fourteen-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20191210004132894.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230614125030250.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230614133117174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230614150503698.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230615151118413.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230615151125636.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230615152328622.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/image-20230615152950182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/java-string-1-2020-12-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/jdk9-char-byte-string-d826ce88-bbbe-47a3-a1a9-4dd86dd3632f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/nine-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/nine-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/nine-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/nine-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/nine-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/nine-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/override-overload-20230408151129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/print-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/print-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/print-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/pictures/thirteen-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/1-前言.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/10-Java实现平台无关性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/11-java可变参数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/12-javanative方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/13-java的构造方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/14-java访问权限修饰符.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/15-java初始化块.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/16-java抽象类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/17-java接口.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/18-案例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/19-defult方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/2-什么是面向对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/20-java内部类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/3-类和对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/4-面向对象的三大基本特征.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/5-面向对象的五大基本原则.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/6-案例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/7-java中的包.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/8-java中的变量.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/9-java中的方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/java面向对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/14B0951E-FC75-47A3-B611-4E1883887339.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/15539284762449.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/15539289530245.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/15539291533175.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/15539297082025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/15539303829914.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/16-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/16-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/16145019571199.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/17-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/17-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/18-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/18-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/20-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/22-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/Jietu20210627-141259-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/abstract-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/abstract-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/abstract-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/abstract-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/abstract-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/bokeyuan-jianxijavazhongdifangwenquanxiankongzhi-154ae82f-72a5-45fc-ad3c-e1eb575d8572.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/bokeyuan-jianxijavazhongdifangwenquanxiankongzhi-b1d4b7ed-fc87-47d4-bdd9-3f6a8ea96100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/bokeyuan-jianxijavazhongdifangwenquanxiankongzhi-b3e9dc56-53e8-42f1-b8ee-35115edfe7e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-2ba4864f-af39-4bd7-b59c-db53ec1c38f6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-2bf1876f-0c1c-4e83-8721-e6f48d6451c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-32bdceb5-e838-47cb-ad96-b7453abae6a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-62bbc6a2-4e0e-4150-9f83-fceb65c56667.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-ab4c9fef-63be-4bba-a871-7e5fb9bf711a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-c06ece50-32e5-4b03-a31b-05ef03592d0c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-d3789496-09f8-4a62-8424-e5c45e224320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-e2ebc65a-5385-44a0-8ef3-a1b17e0252f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/extends-bigsai-eeee7ea3-30d5-4bb1-9c9d-5e3bf427e805.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615212720005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615212731031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615212738450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615212754509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615213114814.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615213708484.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615213722540.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214105578.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214129380.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214704491.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214725375.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214738386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214802731.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214820668.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214833736.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615214844376.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615215501906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230615220313407.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616155035788.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616155044664.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616180412200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616180421789.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222251584.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222313161.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222323833.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222514213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222707040.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222830270.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222844663.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/image-20230616222853446.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/inner-class-26fc0242-134a-4588-a52d-7da962fc3fb9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/inner-class-69523196-37fe-43c6-a52e-5a8c94fdd2d8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/inner-class-c0b9bdf5-cb12-45fc-b362-cb14d5d44fdc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/interface-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/interface-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/interface-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/interface-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/interface-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/java-extends-2020-12-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-0b08bf51-7bd9-4d06-a0dc-4262c1a71fd5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-2a6fd1da-8b64-4fe1-bf3b-fbb117774549.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-34beba0f-8fe8-48d0-aa48-b25c1b504b59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-41e11e7f-31c1-4611-9b85-63ec211ff31b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-6673cf73-c4dd-4434-b821-0d705f756a73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-e5c34f63-84df-4a99-96e1-b45ea04929df.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/native-method-e93c8fa8-6e33-4374-81da-8bd9360d1bb4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/object-class-20230410094307.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/varables-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/varables-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/pictures/varables-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youdao.md" afterDir="false" />
+    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.2">
+      <change afterPath="$PROJECT_DIR$/web_effect/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_effect/_navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_effect/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_effect/cssjs/1-前言.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_effect/cssjs/2-7月.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_effect/cssjs/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/_sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/java从入门到起飞.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/basic-data-type-3d5b3e40-1abb-4624-8282-b83e58388825.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/basic-data-type-dc26645a-3ed8-4ad4-815d-52528ad12d6b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/eleven-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/fourteen-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20191210004132894.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230614125030250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230614133117174.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230614150503698.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230615151118413.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230615151125636.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230615152328622.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/image-20230615152950182.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/java-string-1-2020-12-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/jdk9-char-byte-string-d826ce88-bbbe-47a3-a1a9-4dd86dd3632f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/nine-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/override-overload-20230408151129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/print-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/print-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/print-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java从入门到起飞书籍v1.0/pictures/thirteen-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/java面向对象.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/14B0951E-FC75-47A3-B611-4E1883887339.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/16-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/16-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/16145019571199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-2ba4864f-af39-4bd7-b59c-db53ec1c38f6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-2bf1876f-0c1c-4e83-8721-e6f48d6451c0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-32bdceb5-e838-47cb-ad96-b7453abae6a5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-62bbc6a2-4e0e-4150-9f83-fceb65c56667.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-ab4c9fef-63be-4bba-a871-7e5fb9bf711a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-c06ece50-32e5-4b03-a31b-05ef03592d0c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-d3789496-09f8-4a62-8424-e5c45e224320.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-e2ebc65a-5385-44a0-8ef3-a1b17e0252f1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/extends-bigsai-eeee7ea3-30d5-4bb1-9c9d-5e3bf427e805.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212720005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212731031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212738450.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615212754509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615213114814.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615213708484.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615213722540.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214105578.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214129380.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214704491.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214725375.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214738386.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214802731.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214820668.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214833736.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615214844376.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615215501906.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/image-20230615220313407.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/java-extends-2020-12-08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/java面向对象v1.0/pictures/object-class-20230410094307.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chinese/youdao.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/1-前言.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/1-前言.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/java面向对象v1.0/1-前言.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/1-前言.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,29 +34,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs/Java/java面向对象v1.0",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/docs/web_effect/cssjs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docs\web_effect\cssjs" />
+      <recent name="E:\docs\web_effect" />
       <recent name="E:\docs\Java\java面向对象v1.0" />
       <recent name="E:\docs\Java\java从入门到起飞书籍v1.0" />
       <recent name="E:\docs" />
-      <recent name="E:\docs\Chinese\java从入门到起飞书籍v1.0" />
-      <recent name="E:\docs\Chinese\java面向对象v1.0" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\docs\Chinese\java面向对象v1.0\pictures" />
@@ -342,6 +102,14 @@
       <workItem from="1686840468020" duration="158000" />
       <workItem from="1686893299377" duration="334000" />
       <workItem from="1686927010262" duration="5863000" />
+      <workItem from="1686980740361" duration="946000" />
+      <workItem from="1687187370518" duration="7000" />
+      <workItem from="1687322502518" duration="151000" />
+      <workItem from="1687327879110" duration="4000" />
+      <workItem from="1687346252830" duration="428000" />
+      <workItem from="1687832913522" duration="127000" />
+      <workItem from="1688287962160" duration="2320000" />
+      <workItem from="1688291529255" duration="85000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -567,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686893484243</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="进行大修改">
+      <created>1686980759880</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1686980759880</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,6 +363,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交" />
     <MESSAGE value="java基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="java基础" />
+    <MESSAGE value="进行大修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="进行大修改" />
   </component>
 </project>
