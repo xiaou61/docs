@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.2">
-      <change afterPath="$PROJECT_DIR$/web_effect/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_effect/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_effect/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_effect/cssjs/1-前言.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_effect/cssjs/2-7月.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_effect/cssjs/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hc.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/_navbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/1-前言.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java从入门到起飞书籍v1.0/1-前言.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/java面向对象v1.0/1-前言.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/1-前言.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,29 +25,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/docs/web_effect/cssjs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/docs/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docs\img" />
       <recent name="E:\docs\web_effect\cssjs" />
       <recent name="E:\docs\web_effect" />
       <recent name="E:\docs\Java\java面向对象v1.0" />
       <recent name="E:\docs\Java\java从入门到起飞书籍v1.0" />
-      <recent name="E:\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\docs\Chinese\java面向对象v1.0\pictures" />
@@ -110,6 +101,10 @@
       <workItem from="1687832913522" duration="127000" />
       <workItem from="1688287962160" duration="2320000" />
       <workItem from="1688291529255" duration="85000" />
+      <workItem from="1688292593672" duration="231000" />
+      <workItem from="1688391247091" duration="88000" />
+      <workItem from="1688393731221" duration="9000" />
+      <workItem from="1688605890806" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -342,7 +337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686980759880</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="7.2">
+      <created>1688292598081</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1688292598081</updated>
+    </task>
+    <task id="LOCAL-00035" summary="7.2">
+      <created>1688292718511</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1688292718511</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,6 +373,7 @@
     <MESSAGE value="提交" />
     <MESSAGE value="java基础" />
     <MESSAGE value="进行大修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="进行大修改" />
+    <MESSAGE value="7.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.2" />
   </component>
 </project>
