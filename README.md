@@ -17,4 +17,4 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;很喜欢这句话，同时我也非常的认同这句话，同时，在上面提到过，除了学习java之外，还学习一些前端的知识，这里有一个网站，就是记录着我和娇妻的一些事情，虽然好久没更新了，那就凑合着看，对于这个网站，也都是随缘进行一个更新的。
 [网站地址](https://www.guoyaxue.top/) <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;之后你可以通过右上角导航栏，去查找你想要查询的知识
-{docsify-updated}
+
