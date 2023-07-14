@@ -5,58 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.10">
-      <change afterPath="$PROJECT_DIR$/c_language/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/_navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/array.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/cli.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/enum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/file.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/flow-control.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/function.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/io.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/memory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/multibyte.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/multifile.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/operator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/pointer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/preprocessor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/specifier.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/string.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/struct.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/syntax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/typedef.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/union.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/dos/variable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/assert.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/ctype.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/errno.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/float.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/inttypes.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/iso646.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/limits.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/locale.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/math.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/signal.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/stdarg.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/stdbool.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/stddef.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/stdint.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/stdio.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/stdlib.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/string.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/time.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/wchar.h.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_language/lib/wctype.h.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/easy/easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/hard/hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/leetcode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/middle/images/addtwonumber1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/middle/middle.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/java面向对象v1.0/java面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/java面向对象.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_effect/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/web_effect/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_language/_navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_effect/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web_effect/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_effect/_navbar.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs/c语言/lib",
+    "last_opened_file_path": "E:/docs/algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,11 +62,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docs\algorithm" />
       <recent name="E:\docs\c语言\lib" />
       <recent name="E:\docs\c语言\dos" />
       <recent name="E:\docs\c语言" />
       <recent name="E:\docs\img" />
-      <recent name="E:\docs\web_effect\cssjs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\docs\Chinese\java面向对象v1.0\pictures" />
@@ -157,7 +127,10 @@
       <workItem from="1688611325264" duration="101000" />
       <workItem from="1688620727606" duration="594000" />
       <workItem from="1688719587990" duration="3000" />
-      <workItem from="1688970227427" duration="1660000" />
+      <workItem from="1688970227427" duration="1958000" />
+      <workItem from="1688972362688" duration="893000" />
+      <workItem from="1688980340135" duration="2000" />
+      <workItem from="1689308946693" duration="6419000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -418,7 +391,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688611400167</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="7.10">
+      <created>1688971913985</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1688971913985</updated>
+    </task>
+    <task id="LOCAL-00039" summary="7.10">
+      <created>1688972209525</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1688972209525</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
