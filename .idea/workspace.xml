@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.10">
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/images/19-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/easy/easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/hard/hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/leetcode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/middle/images/addtwonumber1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/middle/middle.md" afterDir="false" />
+    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/_navbar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/java面向对象v1.0/java面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/java面向对象v1.0/java面向对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_language/_navbar.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_effect/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/web_effect/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_effect/_navbar.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +110,7 @@
       <workItem from="1688970227427" duration="1958000" />
       <workItem from="1688972362688" duration="893000" />
       <workItem from="1688980340135" duration="2000" />
-      <workItem from="1689308946693" duration="6419000" />
+      <workItem from="1689308946693" duration="7386000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1686567512050</created>
@@ -405,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688972209525</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="7.13">
+      <created>1689320248067</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1689320248067</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,6 +416,7 @@
     <MESSAGE value="进行大修改" />
     <MESSAGE value="7.2" />
     <MESSAGE value="7.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.10" />
+    <MESSAGE value="7.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.13" />
   </component>
 </project>
