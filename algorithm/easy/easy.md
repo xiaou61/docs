@@ -583,3 +583,279 @@ class Solution {
 
 ```
 
+# 20.有效的括号
+
+给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串 `s` ，判断字符串是否有效。
+
+有效字符串需满足：
+
+1. 左括号必须用相同类型的右括号闭合。
+2. 左括号必须以正确的顺序闭合。
+3. 每个右括号都有一个对应的相同类型的左括号。
+
+ 
+
+**示例 1：**
+
+```
+输入：s = "()"
+输出：true
+```
+
+**示例 2：**
+
+```
+输入：s = "()[]{}"
+输出：true
+```
+
+**示例 3：**
+
+```
+输入：s = "(]"
+输出：false
+```
+
+ 
+
+**提示：**
+
+- `1 <= s.length <= 104`
+- `s` 仅由括号 `'()[]{}'` 组成
+
+
+
+**方法一：栈**
+
+遍历括号字符串 `s`，遇到左括号时，压入当前的左括号；遇到右括号时，弹出栈顶元素（若栈为空，直接返回 `false`），判断是否匹配，若不匹配，直接返回 `false`。
+
+也可以选择遇到左括号时，将右括号压入栈中；遇到右括号时，弹出栈顶元素（若栈为空，直接返回 `false`），判断是否是相等。若不匹配，直接返回 `false`。
+
+> 两者的区别仅限于括号转换时机，一个是在入栈时，一个是在出栈时。
+
+遍历结束，若栈为空，说明括号字符串有效，返回 `true`；否则，返回 `false`。
+
+时间复杂度 `O(n)`，空间复杂度 `O(n)`。其中 `n `为括号字符串 `s` 的长度。
+
+```java
+class Solution {
+    public boolean isValid(String s) {
+        Deque<Character> stk = new ArrayDeque<>();
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '{' || c == '[') {
+                stk.push(c);
+            } else if (stk.isEmpty() || !match(stk.pop(), c)) {
+                return false;
+            }
+        }
+        return stk.isEmpty();
+    }
+
+    private boolean match(char l, char r) {
+        return (l == '(' && r == ')') || (l == '{' && r == '}') || (l == '[' && r == ']');
+    }
+}
+```
+
+# 21.合并两个有序序列
+
+将两个升序链表合并为一个新的 **升序** 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 
+
+![img](images/merge_ex1.jpg)
+
+```
+输入：l1 = [1,2,4], l2 = [1,3,4]
+输出：[1,1,2,3,4,4]
+```
+
+**示例 2：**
+
+```
+输入：l1 = [], l2 = []
+输出：[]
+```
+
+**示例 3：**
+
+```
+输入：l1 = [], l2 = [0]
+输出：[0]
+```
+
+ 
+
+**提示：**
+
+- 两个链表的节点数目范围是 `[0, 50]`
+
+- `-100 <= Node.val <= 100`
+
+- `l1` 和 `l2` 均按 **非递减顺序** 排列
+
+- **方法一：递归**
+
+  我们先判断链表 `l1` 和 `l2` 是否为空，若其中一个为空，则返回另一个链表。否则，我们比较 `l1` 和 `l2` 的头节点：
+
+  - 若 `l1` 的头节点的值小于等于 `l2` 的头节点的值，则递归调用函数 `mergeTwoLists(l1.next,l2)`，并将 `l1` 的头节点与返回的链表头节点相连，返回 `l1` 的头节点。
+  - 否则，递归调用函数 `mergeTwoLists(l1,l2.next)`，并将 `l2` 的头节点与返回的链表头节点相连，返回 `l2 `的头节点。
+
+  时间复杂度`O(m+n)`，空间复杂度`O(m+n)`。其中 `m `和 `n` 分别为两个链表的长度。
+
+```java
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        if (list1 == null) {
+            return list2;
+        }
+        if (list2 == null) {
+            return list1;
+        }
+        if (list1.val <= list2.val) {
+            list1.next = mergeTwoLists(list1.next, list2);
+            return list1;
+        } else {
+            list2.next = mergeTwoLists(list1, list2.next);
+            return list2;
+        }
+    }
+}
+```
+
+**方法二：迭代**
+
+我们也可以用迭代的方式来实现两个排序链表的合并。
+
+我们先定义一个虚拟头节点 `dummy`，然后循环遍历两个链表，比较两个链表的头节点，将较小的节点添加到 `dummy` 的末尾，直到其中一个链表为空，然后将另一个链表的剩余部分添加到 `dummy` 的末尾。
+
+最后返回 `dummy.next` 即可。
+
+时间复杂度 `O(m+n)`，其中 `m` 和 `n `分别为两个链表的长度。忽略答案链表的空间消耗，空间复杂度`O(1`)。
+
+```java
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode dummy = new ListNode();
+        ListNode curr = dummy;
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                curr.next = list1;
+                list1 = list1.next;
+            } else {
+                curr.next = list2;
+                list2 = list2.next;
+            }
+            curr = curr.next;
+        }
+        curr.next = list1 == null ? list2 : list1;
+        return dummy.next;
+    }
+}
+```
+
+# 26.删除有序数组的重复项
+
+给你一个 **升序排列** 的数组 `nums` ，请你**[ 原地](http://baike.baidu.com/item/原地算法)** 删除重复出现的元素，使每个元素 **只出现一次** ，返回删除后数组的新长度。元素的 **相对顺序** 应该保持 **一致** 。然后返回 `nums` 中唯一元素的个数。
+
+考虑 `nums` 的唯一元素的数量为 `k` ，你需要做以下事情确保你的题解可以被通过：
+
+- 更改数组 `nums` ，使 `nums` 的前 `k` 个元素包含唯一元素，并按照它们最初在 `nums` 中出现的顺序排列。`nums` 的其余元素与 `nums` 的大小不重要。
+- 返回 `k` 。
+
+**判题标准:**
+
+系统会用下面的代码来测试你的题解:
+
+```
+int[] nums = [...]; // 输入数组
+int[] expectedNums = [...]; // 长度正确的期望答案
+
+int k = removeDuplicates(nums); // 调用
+
+assert k == expectedNums.length;
+for (int i = 0; i < k; i++) {
+    assert nums[i] == expectedNums[i];
+}
+```
+
+如果所有断言都通过，那么您的题解将被 **通过**。
+
+ 
+
+**示例 1：**
+
+```
+输入：nums = [1,1,2]
+输出：2, nums = [1,2,_]
+解释：函数应该返回新的长度 2 ，并且原数组 nums 的前两个元素被修改为 1, 2 。不需要考虑数组中超出新长度后面的元素。
+```
+
+**示例 2：**
+
+```
+输入：nums = [0,0,1,1,1,2,2,3,3,4]
+输出：5, nums = [0,1,2,3,4]
+解释：函数应该返回新的长度 5 ， 并且原数组 nums 的前五个元素被修改为 0, 1, 2, 3, 4 。不需要考虑数组中超出新长度后面的元素。
+```
+
+ 
+
+**提示：**
+
+- `1 <= nums.length <= 3 * 104`
+- `-104 <= nums[i] <= 104`
+- `nums` 已按 **升序** 排列
+
+**方法一：一次遍历**
+
+我们用一个变量 `k` 记录当前已经处理好的数组的长度，初始时 `k=0`，表示空数组。
+
+然后我们从左到右遍历数组，对于遍历到的每个元素 `x`，如果 `k=0 `或者 `x\\=nums[k−1]`，我们就将 `x `放到`nums[k] `的位置，然后 `k` 自增 1。否则，`x` 与 `nums[k−1] `相同，我们直接跳过这个元素。继续遍历，直到遍历完整个数组。
+
+这样，当遍历结束时，`nums `中前 `k `个元素就是我们要求的答案，且 `k `就是答案的长度。
+
+时间复杂度 `O(n)`，空间复杂度 `O(1)`。其中 `n` 为数组的长度。
+
+补充：
+
+原问题要求最多相同的数字最多出现 11 次，我们可以扩展至相同的数字最多保留 `k` 个。
+
+- 由于相同的数字最多保留 `k `个，那么原数组的前 `k` 个元素我们可以直接保留；
+
+- 对于后面的数字，能够保留的前提是：当前数字 `x `与前面已保留的数字的倒数第 `k `个元素比较，不同则保留，相同则跳过。
+
+- 
+
+- ```java
+  class Solution {
+      public int removeDuplicates(int[] nums) {
+          int k = 0;
+          for (int x : nums) {
+              if (k == 0 || x != nums[k - 1]) {
+                  nums[k++] = x;
+              }
+          }
+          return k;
+      }
+  }
+  ```
+
