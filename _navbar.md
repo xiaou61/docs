@@ -9,3 +9,4 @@
     * [lib库解析](c_language/lib/README.md)
 * [算法](/algorithm/README.md)
 * [爬虫实战案例](/reptile/README.md)
+* [优秀书籍预览](/book/README.md)
