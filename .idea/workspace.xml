@@ -5,8 +5,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.17">
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/2097896352.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031155315111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031155411978.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031164828150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031165108003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031170253382.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031170725352.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031170930747.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031172354535.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031181430720.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031214305224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221031214547501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221101153556681.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221102103318844.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221102103628391.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221102103931372.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221102155523983.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201102513199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201102642526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201103138194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201103842379.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201103914530.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201104003391.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201104123322.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201104749612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201104827752.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201104913541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201105001197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201105416558.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221201173958165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221205201741893.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221205202000198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221205202117383.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221205202154225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221206184117531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221206220207266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221206221002615.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221206231535991.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221206232920494.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207102315185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207103020854.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207110539954.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207110947997.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111012582.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111105569.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111206279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111420056.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111509837.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111609878.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111644950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111731150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207111947283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207112009852.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207113544080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207122416669.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207122500801.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207122802758.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207124839565.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207140024056.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207142746771.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207152841304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207153018092.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207153642253.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207153724340.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207153755732.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207153944132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207155009832.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207155726572.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221207155756512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221209105947105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221209110043449.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221216132844066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221216223135162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221217115515670.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221218154728062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221218154808754.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221218154841001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221218154945878.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/image-20221219112426052.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/images/spring6/img027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Spring6/spring6.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,36 +124,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/docs/book/java_Concurrent_programming&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/docs/Java/Spring6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\docs\Java\Spring6" />
+      <recent name="E:\docs\Java" />
       <recent name="E:\docs\book\java_Concurrent_programming" />
       <recent name="E:\docs\book\Underlying_computer_secrets" />
       <recent name="E:\docs\book" />
-      <recent name="E:\docs\book\Underlying computer secrets" />
-      <recent name="E:\docs\reptile\auto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\docs\Java\Spring6" />
       <recent name="E:\docs\book\Underlying_computer_secrets" />
       <recent name="E:\docs\Chinese\java面向对象v1.0\pictures" />
       <recent name="E:\docs\Chinese" />
       <recent name="E:\docs\Chinese\Book" />
-      <recent name="E:\docs\Chinese\Book\C 语言入门教程（暗黑版）-阮一峰" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -118,27 +218,8 @@
       <workItem from="1689493080096" duration="977000" />
       <workItem from="1689563761841" duration="3642000" />
       <workItem from="1689575877390" duration="1142000" />
-    </task>
-    <task id="LOCAL-00002" summary="提交">
-      <created>1686567602183</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1686567602184</updated>
-    </task>
-    <task id="LOCAL-00003" summary="提交">
-      <created>1686569212936</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1686569212936</updated>
-    </task>
-    <task id="LOCAL-00004" summary="提交">
-      <created>1686581278551</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1686581278551</updated>
+      <workItem from="1689582198536" duration="692000" />
+      <workItem from="1689645058823" duration="267000" />
     </task>
     <task id="LOCAL-00005" summary="提交">
       <created>1686582993428</created>
@@ -462,7 +543,28 @@
       <option name="project" value="LOCAL" />
       <updated>1689566899583</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="7.17">
+      <created>1689583395041</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583395041</updated>
+    </task>
+    <task id="LOCAL-00052" summary="7.17">
+      <created>1689583399927</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583399927</updated>
+    </task>
+    <task id="LOCAL-00053" summary="7.17">
+      <created>1689583403915</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1689583403915</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
