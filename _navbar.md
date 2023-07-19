@@ -11,5 +11,7 @@
     * [c语言基础](c_language/dos/intro.md)
     * [lib库解析](c_language/lib/README.md)
 * [算法](/algorithm/README.md)
+    * [leetcode算法全解](algorithm/leetcode/README.md)
+    * [数据结构与算法(黑马)](algorithm/heima/heima.md)
 * [爬虫实战案例](/reptile/README.md)
 * [优秀书籍预览](/book/README.md)
