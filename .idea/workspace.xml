@@ -4,111 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.18">
-      <change afterPath="$PROJECT_DIR$/algorithm/heima/_sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/heima/heima.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/Sorted_binary_tree_ALL_RGB.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/Tower_of_Hanoi_4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221104114132056.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221104164329026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221104164716282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221104164947154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221108095747933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221108100014451.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221108103846566.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221108114915524.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221110083407176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221110083427372.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221110083538273.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221110084611550.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221110155655827.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221111122709227.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221125174155058.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221207092417933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221213173225807.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221219090741078.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221219091316225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221219091930614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221219092537323.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221219172514410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221228081715799.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221228082002730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221228175413998.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221228180357257.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221229143756065.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221229144232651.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221229153338425.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221229154248800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221229190646563.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221230150105089.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221230150141318.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221230150153271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221231080909475.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20221231081009018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230110084245095.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230110084632543.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230112170242265.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230112171236067.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230112171444699.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230112171917135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230112174351649.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230208160143386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230208160343493.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230208162857435.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230213095110902.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230213114024607.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230216153607396.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230221110443230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230228090412983.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230228091405293.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230228144422128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230228152715296.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310153645397.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310153803661.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310154155728.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310154232729.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310154459709.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310154858754.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310155048187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310155347349.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310162158692.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310162442932.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310162945078.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310163019508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310171424362.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310171636904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310171821578.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310171903417.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310172212302.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310172234154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310172303012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230310172317379.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230313090500760.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230313090817485.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230424083655435.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230424090603325.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230425084247888.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230504153631958.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230504154044402.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230504154213239.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/image-20230504161136854.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/images/stability_playing_cards.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/leetcode/_sidebar.md" afterDir="false" />
+    <list default="true" id="29f3c3b5-3f96-4fdd-b38d-a64cb3d3a991" name="变更" comment="7.19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/easy/easy.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/easy/easy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/easy/images/image-20230714152407409.png" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/easy/images/image-20230714152407409.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/easy/images/image-20230714152742730.png" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/easy/images/image-20230714152742730.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/easy/images/image-20230714152913830.png" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/easy/images/image-20230714152913830.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/easy/images/image-20230717164215356.png" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/easy/images/image-20230717164215356.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/easy/images/merge_ex1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/easy/images/merge_ex1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/hard/hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/hard/hard.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/leetcode.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/middle/images/addtwonumber1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/middle/images/addtwonumber1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/middle/middle.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/leetcode/middle/middle.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,22 +24,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/docs/algorithm/heima",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/docs/algorithm/heima&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\docs\algorithm\heima" />
@@ -225,14 +122,8 @@
       <workItem from="1689645058823" duration="368000" />
       <workItem from="1689661778288" duration="2508000" />
       <workItem from="1689675743622" duration="35000" />
-      <workItem from="1689749733315" duration="1223000" />
-    </task>
-    <task id="LOCAL-00007" summary="提交">
-      <created>1686628199756</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1686628199756</updated>
+      <workItem from="1689749733315" duration="1254000" />
+      <workItem from="1689754187774" duration="120000" />
     </task>
     <task id="LOCAL-00008" summary="提交">
       <created>1686628448923</created>
@@ -570,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689667751242</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="7.19">
+      <created>1689750990126</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1689750990126</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,6 +496,7 @@
     <MESSAGE value="7.16" />
     <MESSAGE value="7.17" />
     <MESSAGE value="7.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.18" />
+    <MESSAGE value="7.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.19" />
   </component>
 </project>
